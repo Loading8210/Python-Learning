@@ -1,2 +1,2 @@
 # Python-Learning
-A repositsry for me to learn python
+A repository for me to learn python
